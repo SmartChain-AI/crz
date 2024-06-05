@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://github.com/marketplace/actions/fetch-api-data">
+    <img width="200px" src="https://github.com/JamesIves/fetch-api-data-action/raw/dev/assets/icon.png">
+  </a>
+</p>
+
+<h1 align="center">
+  Cors Reverse Proxy 📦 🚚
+</h1>
+
 [![Build Status](https://travis-ci.com/Rob--W/cors-anywhere.svg?branch=master)](https://travis-ci.com/Rob--W/cors-anywhere)
 [![Coverage Status](https://coveralls.io/repos/github/Rob--W/cors-anywhere/badge.svg?branch=master)](https://coveralls.io/github/Rob--W/cors-anywhere?branch=master)
 
